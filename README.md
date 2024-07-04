@@ -1,3 +1,5 @@
+## (This task was created to illustrate the properties of the state)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
