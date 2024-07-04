@@ -1,4 +1,4 @@
-## (This task was created to illustrate the properties of the state)
+## (This task was created to illustrate the properties of the state in react)
 
 # Getting Started with Create React App
 
